@@ -48,8 +48,7 @@ Self-declared age information, frequency refers to the number of clips annotated
 <!-- @ OPTIONAL @ -->
 <!-- An overview of the text corpus, with information such as average length (in characters and words) of validated sentences. -->
 
-دو ھزار جملے لوھار کی زبان کے ھی اور کچھ گھریلو اور کہانیوں  والی ھی 
-
+The corpus contains sentences from the day to day use of the language.
 ### Writing system
 <!-- {{WRITING_SYSTEM_DESCRIPTION}} -->
 <!-- @ OPTIONAL @ -->
@@ -67,7 +66,7 @@ Latin Sindhi
 ### Sample
 <!-- {{SENTENCES_SAMPLE}} -->
 There follows a randomly selected sample of five sentences from the corpus.
-ھون لوھار ھون ماري ذات پتاڻي جي ھون بي روزگار ھون  ماري تين ٽاٻر ھي ماري ٻير گهر ۾ گهي ھي
+ھون لوھار ھون، ماري ذات پتاڻي جي، ھون بي روزگار ھون،  ماري تين ٽاٻر ھي، ماري ٻير گهر ۾ گهي ھي
 
 ### Sources
 <!-- {{SOURCES_LIST}} -->
