@@ -14,8 +14,6 @@ Five lake Plus
 <!-- @ OPTIONAL @ -->
 <!-- Describe the variants (MCV variants) of your language -->
 
-مارواڑی،سنسکرت،سندھی۔اردو
-
 ## Demographic information
 <!-- You can get a lot of the information in this section from https://analyzer.cv-toolbox.web.tr/browse -->
 The dataset includes the following distribution of age and gender.
