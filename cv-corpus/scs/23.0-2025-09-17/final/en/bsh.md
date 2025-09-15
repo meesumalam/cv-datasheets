@@ -69,7 +69,7 @@ Parso Arabic
 <!-- {{SENTENCES_SAMPLE}} -->
 There follows a randomly selected sample of sentences from the corpus.
 ```
- شلماچ پشول گوسہ تیو کور اسیش وݜ مع اسیشا پموکچی ائ  ایمو تہ کائ نہ ائ
+ شلماچ پشول گوسہ، تیو کور اسیش وݜ، مع اسیشا پموکچی ائ ، ایمو تہ کائ نہ ائ
 ```
 
 ### Sources
