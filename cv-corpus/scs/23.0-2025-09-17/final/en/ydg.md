@@ -67,7 +67,7 @@ The writing of Yadgha language is Perso-Arabic, develop by the community with su
 ### Sample
 <!-- {{SENTENCES_SAMPLE}} -->
 There follows a randomly selected sample of five sentences from the corpus.
-نَمن یاغو شَماؤ نغن غور ڤے انسان خدان پیدا کڑے تو چر زیمونے نے ہورغن تیار اوئے
+نَمن یاغو شَماؤ، نغن غور، ڤے انسان خدان پیدا کڑے، تو چر زیمونے، نے ہورغن تیار اوئے
 
 ### Sources
 <!-- {{SOURCES_LIST}} -->
