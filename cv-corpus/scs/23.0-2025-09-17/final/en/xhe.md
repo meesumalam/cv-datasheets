@@ -67,7 +67,7 @@ As the writing system of Khetrani language is Indo-Aryan (Indo-Arabic) similiar 
 ### Sample
 <!-- {{SENTENCES_SAMPLE}} -->
 There follows a randomly selected sample of five sentences from the corpus.
-ظالم تا ہِک مُنشی ہا ظالم کم تا ٻُجھا ہِے ذال ہِک دُکان ݙے ڳئی ہِے کہ اَسے شیر ݙے ون٘ڄوں بیگھاوا آں ہِے
+ظالم تا ہِک مُنشی ہا، ظالم کم تا ٻُجھا ہِے، ذال ہِک دُکان ݙے ڳئی ہِے، کہ اَسے شیر ݙے، ون٘ڄوں بیگھاوا آں ہِے
 
 ### Sources
 <!-- {{SOURCES_LIST}} -->
